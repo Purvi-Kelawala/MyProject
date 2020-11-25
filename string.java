@@ -20,7 +20,7 @@ public class RemoveWhiteSpace {
 		{
 				newString.append(arr[i]);}
 	}
-	
+	//Append string
 	String noSpace=newString.toString();
 	System.out.println(noSpace);
 
