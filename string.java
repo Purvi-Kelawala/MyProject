@@ -24,5 +24,6 @@ public class RemoveWhiteSpace {
 	String noSpace=newString.toString();
 	System.out.println(noSpace);
 
-	}	
+	}
+	//Test
 }
